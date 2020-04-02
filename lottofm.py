@@ -13,6 +13,11 @@ def input_display():
     else:
         return money / 1000
 
+
+print("AAAA")
+
+print("AAAA")
+
 def main():
     count = input_display()
     for x in range(int(count)):
